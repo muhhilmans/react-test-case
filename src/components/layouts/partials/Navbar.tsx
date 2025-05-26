@@ -4,7 +4,7 @@ import type { MenuProps } from "antd";
 import { Flex, Menu } from "antd";
 import { Link } from "react-router-dom";
 import { Header } from "antd/es/layout/layout";
-import reactLogo from "../../assets/react.svg";
+import reactLogo from "../../../assets/react.svg";
 
 type MenuItem = Required<MenuProps>["items"][number];
 

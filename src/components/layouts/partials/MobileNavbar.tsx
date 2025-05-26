@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Layout } from "antd";
 import { MenuFoldOutlined, MenuUnfoldOutlined } from "@ant-design/icons";
-import reactLogo from "../../assets/react.svg";
+import reactLogo from "../../../assets/react.svg";
 
 interface MobileNavbarProps {
   siderVisible: boolean;
