@@ -28,6 +28,11 @@ const Home: React.FC = () => {
               "API returned 429 (Too Many Requests). Using dummy data."
             );
             setArticles(dummyData.articles);
+          } else if (err.response?.status === 426) {
+            console.warn(
+              "API returned 426 (corsNotAllowed). Using dummy data."
+            );
+            setArticles(dummyData.articles);
           } else {
             console.error("Error fetching news:", err);
             setArticles(dummyData.articles);
