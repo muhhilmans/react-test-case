@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "totalResults": 100,
+    "articles": [
+        {
+            "title": "Title 1",
+            "description": "Description 1",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        },
+        {
+            "title": "Title 2",
+            "description": "Description 2",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        },
+        {
+            "title": "Title 3",
+            "description": "Description 3",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        },
+        {
+            "title": "Title 4",
+            "description": "Description 4",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        },
+        {
+            "title": "Title 5",
+            "description": "Description 5",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        },
+        {
+            "title": "Title 6",
+            "description": "Description 6",
+            "url": "https://www.bbc.co.uk/news",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
+        }
+    ]
+}

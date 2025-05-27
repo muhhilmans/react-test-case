@@ -24,7 +24,7 @@ const DesktopLayout: React.FC = () => {
         </div>
       </Content>
       <Footer style={{ textAlign: "center" }}>
-        Ant Design ©{new Date().getFullYear()} Created by Your Name
+        PT. EIGEN TRI MATHEMA. ©{new Date().getFullYear()} Created by Muh Hilman Sholehudin.
       </Footer>
     </Layout>
   );
