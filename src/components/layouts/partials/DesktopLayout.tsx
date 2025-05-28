@@ -3,7 +3,6 @@ import React from "react";
 import Navbar from "./Navbar";
 import { Route, Routes } from "react-router-dom";
 import Home from "../../../pages/Home";
-import Detail from "../../../pages/Detail";
 
 const { Content, Footer } = Layout;
 
@@ -20,7 +19,6 @@ const DesktopLayout: React.FC = () => {
         >
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/detail/:title" element={<Detail />} />
           </Routes>
         </div>
       </Content>

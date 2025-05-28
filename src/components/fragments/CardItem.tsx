@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import { Card, Col } from "antd";
-import { Link } from "react-router-dom";
+import CardModal from "./CardModal";
 
 const { Meta } = Card;
 
@@ -10,6 +10,8 @@ interface CardItemProps {
 }
 
 const CardItem: React.FC<CardItemProps> = ({ data, loading }) => {
+  const [open, setOpen] = useState(false);
+
   const coverImage =
     loading === false && data.urlToImage ? (
       <img
@@ -19,7 +21,13 @@ const CardItem: React.FC<CardItemProps> = ({ data, loading }) => {
       />
     ) : null;
 
-  const detailUrl = `/detail/${encodeURIComponent(data.title)}`;
+  const handleOpenModal = () => {
+    setOpen(true);
+  };
+
+  const handleCloseModal = () => {
+    setOpen(false);
+  };
 
   return (
     <Col
@@ -27,17 +35,17 @@ const CardItem: React.FC<CardItemProps> = ({ data, loading }) => {
       md={{ flex: "50%", span: 12 }}
       lg={{ flex: "30%", span: 8 }}
     >
-      <Link to={detailUrl}>
-        <Card
-          loading={loading}
-          hoverable
-          variant="borderless"
-          cover={coverImage}
-          style={{ width: "100%", height: "100%" }}
-        >
-          <Meta title={data.title} description={data.description} />
-        </Card>
-      </Link>
+      <Card
+        loading={loading}
+        hoverable
+        variant="borderless"
+        cover={coverImage}
+        style={{ width: "100%", height: "100%" }}
+        onClick={handleOpenModal}
+      >
+        <Meta title={data.title} description={data.description} />
+      </Card>
+      <CardModal open={open} onClose={handleCloseModal} data={data} />
     </Col>
   );
 };
