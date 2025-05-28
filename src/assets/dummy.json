@@ -1,42 +1,66 @@
 {
-    "status": "ok",
-    "totalResults": 100,
-    "articles": [
-        {
-            "title": "Title 1",
-            "description": "Description 1",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        },
-        {
-            "title": "Title 2",
-            "description": "Description 2",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        },
-        {
-            "title": "Title 3",
-            "description": "Description 3",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        },
-        {
-            "title": "Title 4",
-            "description": "Description 4",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        },
-        {
-            "title": "Title 5",
-            "description": "Description 5",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        },
-        {
-            "title": "Title 6",
-            "description": "Description 6",
-            "url": "https://www.bbc.co.uk/news",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c19e/live/7773fbe0-3aca-11f0-8947-7d6241f9fce9.jpg"
-        }
-    ]
+  "status": "ok",
+  "totalResults": 100,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/BBCSport/",
+      "title": "French Open: Fearnley faces Wawrinka, Burrage breaks Collins back - radio & text",
+      "description": "Britons Jodie Burrage and Jacob Fearnley bid to join Emma Raducanu in the second round of the French Open on day two in Paris - follow live.",
+      "url": "https://www.bbc.com/sport/tennis/live/ce3vxvgxvxyt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5c/live/d83e02c0-3a2c-11f0-8519-3b5a01ebe413.jpg",
+      "publishedAt": "2025-05-26T12:35:36Z",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum iure ullam itaque repudiandae veritatis sit saepe sapiente soluta? Suscipit reprehenderit quam voluptas accusamus sequi tempore quia culpa ipsum natus dicta aut sunt nam quos ratione pariatur perspiciatis molestiae cupiditate aliquid a distinctio doloribus quae, laudantium nulla delectus? Labore laudantium, earum nemo, numquam animi vel quasi eveniet error ipsum reiciendis quibusdam, laboriosam ea. Obcaecati molestiae nostrum illum quos reprehenderit alias ipsum libero accusamus voluptates velit qui voluptatibus est quisquam itaque perspiciatis sapiente debitis vel eius magni, pariatur iste officia. Recusandae, ut hic error tenetur laudantium autem, maiores voluptatem, vel excepturi nulla consequatur obcaecati quia laborum deserunt facilis est. Maxime illo id ipsa repellat. Impedit vitae fuga velit mollitia distinctio repellendus a aut fugit illum, aperiam quas reiciendis facere ipsa minus blanditiis eveniet nihil aliquid quo exercitationem quae odit? Sunt aspernatur, dolor ducimus inventore quia illo. Exercitationem, deleniti magni debitis ducimus molestiae blanditiis tenetur, fugit voluptatum doloribus quas totam! Deserunt voluptatibus quos molestiae nisi. Soluta officia maxime error, aliquam cupiditate repudiandae voluptates quaerat laudantium animi blanditiis tempora necessitatibus beatae quam, quidem non nihil illo fugit tenetur! Odit, ex voluptatum! Iure, cumque ea ipsum harum accusamus quas? Cum architecto eum quasi minima dolorem."
+    }
+  ]
 }

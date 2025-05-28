@@ -3,6 +3,10 @@ interface Article {
   description: string;
   url: string;
   urlToImage?: string;
+  author?: string;
+  content?: string;
+  source?: { id: string | null; name: string };
+  publishedAt?: date;
 }
 
 interface NewsResponse {

@@ -53,7 +53,7 @@ const Home: React.FC = () => {
     };
 
     fetchNews();
-  }, [articles]);
+  }, []);
 
   if (error) {
     return <Alert message="Error" description={error} type="error" showIcon />;

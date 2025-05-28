@@ -4,6 +4,7 @@ import { Layout } from "antd";
 import MobileNavbar from "./MobileNavbar";
 import { Route, Routes } from "react-router-dom";
 import Home from "../../../pages/Home";
+import Detail from "../../../pages/Detail";
 
 const { Content, Footer } = Layout;
 
@@ -18,7 +19,6 @@ const MobileLayout: React.FC<MobileLayoutProps> = ({
   hideSider,
   toggleSider,
 }) => {
-
   return (
     <>
       <MobileSider visible={siderVisible} onClose={hideSider} />
@@ -33,11 +33,13 @@ const MobileLayout: React.FC<MobileLayoutProps> = ({
           >
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/detail/:title" element={<Detail />} />
             </Routes>
           </div>
         </Content>
         <Footer style={{ textAlign: "center" }}>
-          PT. EIGEN TRI MATHEMA. ©{new Date().getFullYear()} Created by Muh Hilman Sholehudin.
+          PT. EIGEN TRI MATHEMA. ©{new Date().getFullYear()} Created by Muh
+          Hilman Sholehudin.
         </Footer>
       </Layout>
     </>
